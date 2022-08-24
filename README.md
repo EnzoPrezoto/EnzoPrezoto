@@ -11,4 +11,4 @@
   <img align="center" alt="Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" /> 
 </div><br/>
 
-Estou me formando em economia pela USP, me interesso por business inteligence, analise de dados e machine learning. 
+### Estou me formando em economia pela USP, me interesso por business inteligence, analise de dados e machine learning. 
